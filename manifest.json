@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "decks": [
+    {
+      "id": "family-home",
+      "version": 1,
+      "schemaVersion": 2,
+      "file": "decks/family-home.json",
+      "name": "Gia đình và nhà cửa",
+      "description": "Người thân, các phòng và đồ dùng trong nhà, việc nhà: những từ thường gặp chưa có trong bộ 3000 từ. Nội dung do AI soạn. Giấy phép CC BY-SA 4.0.",
+      "level": "A2-B1",
+      "wordCount": 82
+    },
+    {
+      "id": "food-cooking",
+      "version": 1,
+      "schemaVersion": 2,
+      "file": "decks/food-cooking.json",
+      "name": "Đồ ăn và nấu ăn",
+      "description": "Thực phẩm, gia vị, món ăn, dụng cụ bếp và cách nấu: những từ thường gặp chưa có trong bộ 3000 từ. Nội dung do AI soạn. Giấy phép CC BY-SA 4.0.",
+      "level": "A2-B1",
+      "wordCount": 88
+    },
+    {
+      "id": "travel",
+      "version": 1,
+      "schemaVersion": 2,
+      "file": "decks/travel.json",
+      "name": "Du lịch",
+      "description": "Sân bay, khách sạn, đi lại, tham quan và dã ngoại: những từ thường gặp khi đi du lịch, chưa có trong bộ 3000 từ. Nội dung do AI soạn. Giấy phép CC BY-SA 4.0.",
+      "level": "A2-B1",
+      "wordCount": 83
+    },
+    {
+      "id": "health",
+      "version": 1,
+      "schemaVersion": 2,
+      "file": "decks/health.json",
+      "name": "Sức khoẻ",
+      "description": "Triệu chứng, bệnh thường gặp, thuốc, khám chữa bệnh, cơ thể và lối sống lành mạnh: những từ chưa có trong bộ 3000 từ. Nội dung do AI soạn. Giấy phép CC BY-SA 4.0.",
+      "level": "A2-B1",
+      "wordCount": 86
+    }
+  ]
+}
